@@ -1,0 +1,1 @@
+[{"id":0,"href":"/docs/linear-algebra/","title":"线性代数","section":"Docs","content":"欢迎来到线性代数的世界#\r这里是关于线性代数的一些核心概念。\n向量 (Vectors)#\r向量是具有大小和方向的量。在二维空间中，一个向量可以表示为 $ \\mathbf{v} = (x, y) $。\n矩阵 (Matrices)#\r矩阵是一个矩形的数字阵列。例如，一个 2x2 矩阵：\n$$ A = \\begin{pmatrix} a \u0026amp; b \\ c \u0026amp; d \\end{pmatrix} $$\n我们可以进行矩阵乘法等操作。\n"}]
