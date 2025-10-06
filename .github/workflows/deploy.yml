@@ -30,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.119.0 # 可以指定一个 Hugo 版本
+      HUGO_VERSION: 0.151.0 # 更新 Hugo 版本以匹配本地和主题要求
     steps:
       - name: Install Hugo CLI
         run: |
