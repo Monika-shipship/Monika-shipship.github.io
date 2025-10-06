@@ -3,6 +3,11 @@ languageCode = 'zh-cn'
 title = 'Monika 的学习笔记'
 theme = 'book'
 
+# 新增的 Markdown 渲染器配置
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
 # 开启搜索索引
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
